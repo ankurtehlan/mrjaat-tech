@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ankur Tehlan
-
+I have no special talent. I am only passionately curious.
 <!--
 **mrjaat-tech/mrjaat-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
