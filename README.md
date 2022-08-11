@@ -8,10 +8,19 @@
 <p>I am developer by 💙 with a passion to build cool, innovative webb apps. Currently, I am learning React Native</p>
 <p>I have also started contributing to open source to connect with the community.</p>
 <br />
-<h2 align="center">About me 😇</h2>
+<h2 align="center">Look at these things I made 👨‍💻</h2>
 <br />
 
-<p>In my latest project, I created a <a href="https://github.com/thevinitgupta/Pigshell">Pixelated Filter App</a> which converts images and live video into magical characters 🤳. I created this project to participate in my first hackathon - Appwrite x Dev Hackathon May-June 2022. </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=dashboard&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=E_Commerce&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=Google-Keeper-App&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=Landing-page-parallax&theme=radical"/>
+</p>
+
+<h2 align="center">About me 😇</h2>
+<br />
 
  💪 I’m currently working ___ on becoming a good programmer
 
