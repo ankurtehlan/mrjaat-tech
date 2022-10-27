@@ -1,60 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ankur Tehlan</h1>
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Ankur Tehlan
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
-<p align="center">
-<a href="https://ankur-portfolio-001.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-E0DE3D?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ankur-tehlan-0b4262216"><img src="https://img.shields.io/badge/Linkedin-024991?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
+
+
+<!----------------------------------- About Section ------------------------------------>
+
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+</h3>
+
+<h3>
+    <i>- Currently working at Bks </i>
+</h3>
+<br>
+
+
+
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/m-sehrawat">
+        <img src="https://komarev.com/ghpvc/?username=ankurtehlan&label=Profile%20views&color=0e75b6&style=flat" alt="ankurtehlan" />
+    </a>
+    <a href="https://github.com/ankurtehlan?tab=followers">
+        <img src="https://img.shields.io/github/followers/ankurtehlan?label=Followers&style=social" alt="followers-count">
+    </a>
 </p>
-<h3 align="center">Focused, driven front end developer A BiblioPhile 📚 </h3>
-<p>I am developer by 💙 with a passion to build cool, innovative webb apps. Currently, I am learning React Native</p>
-<p>I have also started contributing to open source to connect with the community.</p>
-<br />
-<h2 align="center">Look at these things I made 👨‍💻</h2>
-<br />
+<br>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=dashboard&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=E_Commerce&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=Google-Keeper-App&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrjaat-tech&repo=Landing-page-parallax&theme=radical"/>
+
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+<h2><i>Tech Stack</i></h2>
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-
-<h2 align="center">About me 😇</h2>
-<br />
-
- 💪 I’m currently working ___ on becoming a good programmer
-
- ⚛ I’m currently learning ___ **React Native**
-
- 💬 Ask me about ___ **react, node**
-
- 📫 How to reach me ___ **ankurtehlan2000@gmail.com**
-
- ⚡ Fun fact ___ **I can draw**
- 
- <br /> <br />
+<br>
 
 
-<h2 align="center">Languages and Tools 🔨</h2>
-<br />
-
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" alt="express" width="50" height="30"/> </a> <a href="https://sass-lang.com" target="_blank"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> </br>
-  
-<p align="center">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<hr />
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrjaat-tech&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaat-tech&layout=compact&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrjaat-tech&show_icons=true&theme=radical"/>
 
 
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://linkedin.com/in/ankurtehlan">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    </a>
+    <a href="https://twitter.com/ankurtehlan">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ankurtehlan" />
+    </a>
+    <a href="https://ankurtehlan.herokuapp.com/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ankurtehlan.herokuapp.com/" />
+    </a>
+    <a title="ankurtehlan2000@gmail.com" href="mailto:ankurtehlan2000@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ankurtehlan2000@gmail.com" />
+    </a>
 </p>
+<br>
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurtehlan&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="ankurtehlan" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurtehlan&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ankurtehlan" height="139" />
+</p>
+<br>
 
 
